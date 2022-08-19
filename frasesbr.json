@@ -1,12 +1,20 @@
-[
-  {
-    "index": 0,
-    "frase": "aaaaaaaaaaaaaaaaaaaaaaaaa",
-    "autor": "Profesión"
-  },
-  {
-    "index": 1,
-    "pregunta": "T-O-O-A-R-C-P-U-D-M-A",
-    "tipo": "Cosas"
-  }
-]
+[{
+    "index": "0",
+    "frase": "aaaaaaaaaaaaaaaaaaaaaaaaaadddddddddddddddddadada"
+},
+{
+    "index": "1",
+    "frase": "adadadadadadadad"
+},
+{
+    "index": "2",
+    "frase": "adadadadadadad"
+},
+{
+    "index": "3",
+    "frase": "adadadadadadada"
+},
+{
+    "index": "4",
+    "frase": "dfdfdffffffffffdesnfcg1"
+}]
