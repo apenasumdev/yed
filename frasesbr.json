@@ -1,9 +1,12 @@
-[{
-    "result": "aaaaaaaaaaaa"
-},
-{
-    "result": "bbbbbbbbbbbbb"
-},
-{
-    "result": "oxi"
-}]
+[
+  {
+    "index": 0,
+    "frase": "aaaaaaaaaaaaaaaaaaaaaaaaa",
+    "autor": "Profesión"
+  },
+  {
+    "index": 1,
+    "pregunta": "T-O-O-A-R-C-P-U-D-M-A",
+    "tipo": "Cosas"
+  }
+]
