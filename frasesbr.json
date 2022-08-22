@@ -1,7 +1,2126 @@
-[
-{ "frase": "Jamais se iluda com uma declaração de amor, pois o verdadeiro amor jamais será declarado." },
-{ "frase": "Jamais se iluda com uma declaração de amor, pois o verdadeiro amor jamais será declarado." },
-{ "frase": "Jamais se iluda com uma declaração de amor, pois o verdadeiro amor jamais será declarado." },
-{ "frase": "Jamais se iluda com uma declaração de amor, pois o verdadeiro amor jamais será declarado." },
-{ "frase": "Jamais se iluda com uma declaração de amor, pois o verdadeiro amor jamais será declarado." }
-]
+{
+  "verdade&desafio": [
+    {
+      "id": 0
+    },
+    {
+      "id": 1,
+      "tipo": "desafio",
+      "texto": "Eu desafio você faz 10 flexões com uma mão em menos de um minuto"
+    },
+    {
+      "id": 2,
+      "tipo": "Verdade",
+      "texto": "Qual ator/atriz você prefere?"
+    },
+    {
+      "id": 3,
+      "tipo": "Verdade",
+      "texto": "Quem é sua paixão secreta?"
+    },
+    {
+      "id": 4,
+      "tipo": "Verdade",
+      "texto": "Qual é a coisa mais nojenta que você já fez?"
+    },
+    {
+      "id": 5,
+      "tipo": "desafio",
+      "texto": "Eu desafio você faz um headstand por 2 minutos"
+    },
+    {
+      "id": 6,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu maior medo em um relacionamento?"
+    },
+    {
+      "id": 7,
+      "tipo": "Verdade",
+      "texto": "Qual foi o seu primeiro encontro mais engraçado?"
+    },
+    {
+      "id": 8,
+      "tipo": "Verdade",
+      "texto": "Qual é a sua maior decepção em um parceiro?"
+    },
+    {
+      "id": 9,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu hábito mais estranho?"
+    },
+    {
+      "id": 10,
+      "tipo": "Verdade",
+      "texto": "Quantos filhos você gostaria de ter?"
+    },
+    {
+      "id": 11,
+      "tipo": "Verdade",
+      "texto": "Qual é o primeiro dia perfeito?"
+    },
+    {
+      "id": 12,
+      "tipo": "Verdade",
+      "texto": "Qual é um fato embaraçoso que eu deveria saber sobre você?"
+    },
+    {
+      "id": 13,
+      "tipo": "Verdade",
+      "texto": "Qual era seu apelido de infância?"
+    },
+    {
+      "id": 14,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu filme favorito?"
+    },
+    {
+      "id": 15,
+      "tipo": "Verdade",
+      "texto": "Descreva seu pior encontro de todos os tempos?"
+    },
+    {
+      "id": 16,
+      "tipo": "Verdade",
+      "texto": "Se não existisse dinheiro, o que você faria com sua vida?"
+    },
+    {
+      "id": 17,
+      "tipo": "Verdade",
+      "texto": "Qual é a sua comida favorita?"
+    },
+    {
+      "id": 18,
+      "tipo": "Verdade",
+      "texto": "Quais são suas três cores favoritas; e por quê?"
+    },
+    {
+      "id": 19,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu emprego dos sonhos?"
+    },
+    {
+      "id": 20,
+      "tipo": "Verdade",
+      "texto": "Se você ficasse preso em uma ilha por 3 dias, o que você levaria com você?"
+    },
+    {
+      "id": 21,
+      "tipo": "Verdade",
+      "texto": "Quem é sua pessoa favorita e por quê?"
+    },
+    {
+      "id": 22,
+      "tipo": "Verdade",
+      "texto": "Você prefere maçã ou android?"
+    },
+    {
+      "id": 23,
+      "tipo": "Verdade",
+      "texto": "Como você coloca seu papel higiênico no rolo?"
+    },
+    {
+      "id": 24,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu melhor talento?"
+    },
+    {
+      "id": 25,
+      "tipo": "Verdade",
+      "texto": "Você acredita em amor à primeira vista?"
+    },
+    {
+      "id": 26,
+      "tipo": "Verdade",
+      "texto": "Você acredita mesmo no amor?"
+    },
+    {
+      "id": 27,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu casamento dos sonhos?"
+    },
+    {
+      "id": 28,
+      "tipo": "Verdade",
+      "texto": "Você consideraria ser um nudista?"
+    },
+    {
+      "id": 29,
+      "tipo": "Verdade",
+      "texto": "Como você se sente sobre os pedaços de um pedaço de pão?"
+    },
+    {
+      "id": 30,
+      "tipo": "Verdade",
+      "texto": "Você pode tocar a língua no nariz?"
+    },
+    {
+      "id": 31,
+      "tipo": "Verdade",
+      "texto": "Se você pudesse tirar uma coisa ruim do mundo, o que seria?"
+    },
+    {
+      "id": 32,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu prazer culpado?"
+    },
+    {
+      "id": 33,
+      "tipo": "Verdade",
+      "texto": "Qual é a comida mais exótica que você já comeu?"
+    },
+    {
+      "id": 34,
+      "tipo": "Verdade",
+      "texto": "Em que país gostaria de viver se você tivesse a chance?"
+    },
+    {
+      "id": 35,
+      "tipo": "Verdade",
+      "texto": "Se você pudesse mudar uma coisa em seu corpo, o que seria?"
+    },
+    {
+      "id": 36,
+      "tipo": "Verdade",
+      "texto": "Com o que você mais sonha acordado?"
+    },
+    {
+      "id": 37,
+      "tipo": "Verdade",
+      "texto": "Descreva o sonho mais estranho que você já teve?"
+    },
+    {
+      "id": 38,
+      "tipo": "Verdade",
+      "texto": "Você pode lamber seu cotovelo?"
+    },
+    {
+      "id": 39,
+      "tipo": "Verdade",
+      "texto": "Qual é a sua estação favorita do ano?"
+    },
+    {
+      "id": 40,
+      "tipo": "Verdade",
+      "texto": "Você poderia passar uma semana sem junk food?"
+    },
+    {
+      "id": 41,
+      "tipo": "Verdade",
+      "texto": "Como foi seu primeiro beijo?"
+    },
+    {
+      "id": 42,
+      "tipo": "Verdade",
+      "texto": "Descreva seu pior beijo de todos os tempos?"
+    },
+    {
+      "id": 43,
+      "tipo": "Verdade",
+      "texto": "Você gosta de se exercitar?"
+    },
+    {
+      "id": 44,
+      "tipo": "desafio",
+      "texto": "Faça uma imitação de sua celebridade favorita"
+    },
+    {
+      "id": 45,
+      "tipo": "desafio",
+      "texto": "Feche os olhos e envie um texto cego para uma pessoa aleatória"
+    },
+    {
+      "id": 46,
+      "tipo": "desafio",
+      "texto": "Pegue uma vassoura e faça seu melhor tango"
+    },
+    {
+      "id": 47,
+      "tipo": "desafio",
+      "texto": "Dê uma rotina de comédia stand-up de 3 minutos"
+    },
+    {
+      "id": 48,
+      "tipo": "desafio",
+      "texto": "Dança de break"
+    },
+    {
+      "id": 49,
+      "tipo": "desafio",
+      "texto": "Invente uma história sobre o item à sua direita"
+    },
+    {
+      "id": 50,
+      "tipo": "desafio",
+      "texto": "Cante o alfabeto sem mexer a boca"
+    },
+    {
+      "id": 51,
+      "tipo": "desafio",
+      "texto": "Faça sua melhor imitação de presidente"
+    },
+    {
+      "id": 52,
+      "tipo": "desafio",
+      "texto": "Grite a primeira palavra que vier à sua mente agora"
+    },
+    {
+      "id": 53,
+      "tipo": "desafio",
+      "texto": "Ligue para a pizzaria e peça 300 pizzas de sardinha"
+    },
+    {
+      "id": 54,
+      "tipo": "desafio",
+      "texto": "Bata no peito e aja como um gorila pelo próximo minuto"
+    },
+    {
+      "id": 55,
+      "tipo": "desafio",
+      "texto": "Cante tudo o que você disser pelos próximos 10 minutos"
+    },
+    {
+      "id": 56,
+      "tipo": "desafio",
+      "texto": "Faça uma massagem nos pés"
+    },
+    {
+      "id": 57,
+      "tipo": "desafio",
+      "texto": "Diga o alfabeto de trás para frente em 15 segundos"
+    },
+    {
+      "id": 58,
+      "tipo": "desafio",
+      "texto": "Vá na casa do vizinho e peça uma banana"
+    },
+    {
+      "id": 59,
+      "tipo": "desafio",
+      "texto": "Vá até alguém aleatório e peça um abraço"
+    },
+    {
+      "id": 60,
+      "tipo": "desafio",
+      "texto": "Defina o idioma do seu celular para chinês pelos próximos 10 minutos"
+    },
+    {
+      "id": 61,
+      "tipo": "desafio",
+      "texto": "Aja como seu personagem favorito da Disney pelo resto do jogo"
+    },
+    {
+      "id": 62,
+      "tipo": "desafio",
+      "texto": "Cante 'Twinkle Twinkle; Little Star' enquanto luta boxe"
+    },
+    {
+      "id": 63,
+      "tipo": "desafio",
+      "texto": "Dê um show com sua air guitar"
+    },
+    {
+      "id": 64,
+      "tipo": "desafio",
+      "texto": "Faça um poema usando as palavras laranja e alce"
+    },
+    {
+      "id": 65,
+      "tipo": "desafio",
+      "texto": "Desafivele seu próprio cinto usando os cotovelos"
+    },
+    {
+      "id": 66,
+      "tipo": "desafio",
+      "texto": "Escovar os dentes de outra pessoa"
+    },
+    {
+      "id": 67,
+      "tipo": "desafio",
+      "texto": "Twerk por um minuto"
+    },
+    {
+      "id": 68,
+      "tipo": "desafio",
+      "texto": "Dança do ventre ao som de uma música country"
+    },
+    {
+      "id": 69,
+      "tipo": "desafio",
+      "texto": "Invente uma música country do topo da sua cabeça"
+    },
+    {
+      "id": 70,
+      "tipo": "desafio",
+      "texto": "Fique de quatro e aja como um cachorro até o próximo turno"
+    },
+    {
+      "id": 71,
+      "tipo": "desafio",
+      "texto": "Faça um rap curto sobre outro jogador"
+    },
+    {
+      "id": 72,
+      "tipo": "desafio",
+      "texto": "Aja como Romeu de 'Romeu e Julieta' (escolha quem você quer que seja Julieta)"
+    },
+    {
+      "id": 73,
+      "tipo": "desafio",
+      "texto": "Faça uma imitação de alguém até que outro jogador adivinhe quem você é"
+    },
+    {
+      "id": 74,
+      "tipo": "desafio",
+      "texto": "Diga 'você me ouviu' depois de tudo que você disser pelos próximos 5 minutos"
+    },
+    {
+      "id": 75,
+      "tipo": "desafio",
+      "texto": "Aja como se você não entendesse seu próprio idioma até o próximo turno (crie seu próprio idioma)"
+    },
+    {
+      "id": 76,
+      "tipo": "desafio",
+      "texto": "Use as letras do nome de outro jogador para descrevê-lo (ex. SAM : S – Bobo"
+    },
+    {
+      "id": 77,
+      "tipo": "desafio",
+      "texto": "Use apenas linguagem de sinais para a próxima rodada"
+    },
+    {
+      "id": 78,
+      "tipo": "desafio",
+      "texto": "Faça flexões até que seja sua vez novamente"
+    },
+    {
+      "id": 79,
+      "tipo": "desafio",
+      "texto": "Use bigode de dedo pelos próximos 5 minutos"
+    },
+    {
+      "id": 80,
+      "tipo": "desafio",
+      "texto": "Use apenas os cotovelos e os joelhos para fazer um sanduíche"
+    },
+    {
+      "id": 81,
+      "tipo": "desafio",
+      "texto": "Escreva um post no Facebook (ou outra mídia social) usando apenas os dedos dos pés"
+    },
+    {
+      "id": 82,
+      "tipo": "desafio",
+      "texto": "Tire uma selfie com o banheiro e poste online"
+    },
+    {
+      "id": 83,
+      "tipo": "desafio",
+      "texto": "Pinte as unhas dos pés usando apenas os dentes"
+    },
+    {
+      "id": 84,
+      "tipo": "Verdade",
+      "texto": "Quão flexível você é?"
+    },
+    {
+      "id": 85,
+      "tipo": "desafio",
+      "texto": "Pegue um cubo de gelo e passe-o para cima e para baixo no corpo do seu parceiro até derreter"
+    },
+    {
+      "id": 86,
+      "tipo": "desafio",
+      "texto": "Dê uma massagem nas costas da pessoa à sua direita"
+    },
+    {
+      "id": 87,
+      "tipo": "Verdade",
+      "texto": "Qual é a sua cor favorita?"
+    },
+    {
+      "id": 88,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu animal favorito?"
+    },
+    {
+      "id": 89,
+      "tipo": "Verdade",
+      "texto": "Qual é a sua comida favorita?"
+    },
+    {
+      "id": 90,
+      "tipo": "Verdade",
+      "texto": "Qual é a sua matéria escolar favorita?"
+    },
+    {
+      "id": 91,
+      "tipo": "Verdade",
+      "texto": "Quem é seu professor favorito; e por quê?"
+    },
+    {
+      "id": 92,
+      "tipo": "Verdade",
+      "texto": "Qual é a sua música favorita?"
+    },
+    {
+      "id": 93,
+      "tipo": "Verdade",
+      "texto": "Quem é seu personagem favorito da Disney?"
+    },
+    {
+      "id": 94,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu programa de TV favorito?"
+    },
+    {
+      "id": 95,
+      "tipo": "Verdade",
+      "texto": "Qual é o nome do seu animal de estimação?"
+    },
+    {
+      "id": 96,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu tamanho de sapato?"
+    },
+    {
+      "id": 97,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu filme favorito?"
+    },
+    {
+      "id": 98,
+      "tipo": "Verdade",
+      "texto": "Quem é seu cantor favorito?"
+    },
+    {
+      "id": 99,
+      "tipo": "Verdade",
+      "texto": "Você gosta de insetos?"
+    },
+    {
+      "id": 100,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu vegetal favorito?"
+    },
+    {
+      "id": 101,
+      "tipo": "Verdade",
+      "texto": "15. Você prefere ser uma galinha ou um pato?"
+    },
+    {
+      "id": 102,
+      "tipo": "Verdade",
+      "texto": "16. Você prefere ser um porco ou uma cobra?"
+    },
+    {
+      "id": 103,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu jogo favorito para jogar?"
+    },
+    {
+      "id": 104,
+      "tipo": "Verdade",
+      "texto": "Você gosta de fazer tarefas?"
+    },
+    {
+      "id": 105,
+      "tipo": "Verdade",
+      "texto": "Qual é a sua coisa favorita para fazer nos fins de semana?"
+    },
+    {
+      "id": 106,
+      "tipo": "Verdade",
+      "texto": "Você sabe dançar?"
+    },
+    {
+      "id": 107,
+      "tipo": "Verdade",
+      "texto": "Você sabe cozinhar?"
+    },
+    {
+      "id": 108,
+      "tipo": "Verdade",
+      "texto": "Você fala outro idioma?"
+    },
+    {
+      "id": 109,
+      "tipo": "Verdade",
+      "texto": "Qual é a sua coisa favorita para fazer depois da escola?"
+    },
+    {
+      "id": 110,
+      "tipo": "Verdade",
+      "texto": "Você pratica algum esporte?"
+    },
+    {
+      "id": 111,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu esporte favorito?"
+    },
+    {
+      "id": 112,
+      "tipo": "Verdade",
+      "texto": "De que animal você tem medo?"
+    },
+    {
+      "id": 113,
+      "tipo": "Verdade",
+      "texto": "Você tem medo de monstros?"
+    },
+    {
+      "id": 114,
+      "tipo": "Verdade",
+      "texto": "Você tem um amigo imaginário?"
+    },
+    {
+      "id": 115,
+      "tipo": "Verdade",
+      "texto": "Quem é seu melhor amigo?"
+    },
+    {
+      "id": 116,
+      "tipo": "Verdade",
+      "texto": "Quando você aprendeu a andar de bicicleta?"
+    },
+    {
+      "id": 117,
+      "tipo": "Verdade",
+      "texto": "Você pode usar um pula-pula?"
+    },
+    {
+      "id": 118,
+      "tipo": "Verdade",
+      "texto": "O que você quer ser quando crescer?"
+    },
+    {
+      "id": 119,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu esporte favorito nas Olimpíadas?"
+    },
+    {
+      "id": 120,
+      "tipo": "Verdade",
+      "texto": "Qual é a capital do estado em que você mora?"
+    },
+    {
+      "id": 121,
+      "tipo": "Verdade",
+      "texto": "Se você pudesse ir a qualquer lugar do mundo, para onde você iria?"
+    },
+    {
+      "id": 122,
+      "tipo": "Verdade",
+      "texto": "Se você tivesse um milhão de dólares; o que você faria com todo o seu dinheiro?"
+    },
+    {
+      "id": 123,
+      "tipo": "Verdade",
+      "texto": "Se você pudesse pintar seu cabelo de qualquer cor, que cor você escolheria?"
+    },
+    {
+      "id": 124,
+      "tipo": "Verdade",
+      "texto": "Quantos irmãos e irmãs você tem?"
+    },
+    {
+      "id": 125,
+      "tipo": "Verdade",
+      "texto": "Se você pudesse ser qualquer animal, qual você seria?"
+    },
+    {
+      "id": 126,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu lugar favorito para sair para comer?"
+    },
+    {
+      "id": 127,
+      "tipo": "desafio",
+      "texto": "Faça a dança mais boba que você pode imaginar"
+    },
+    {
+      "id": 128,
+      "tipo": "desafio",
+      "texto": "Aja como uma velha ou um velho"
+    },
+    {
+      "id": 129,
+      "tipo": "desafio",
+      "texto": "Gire cerca de 10 vezes; quando terminar tente andar em linha reta"
+    },
+    {
+      "id": 130,
+      "tipo": "desafio",
+      "texto": "Faça 10 polichinelos; e depois faça 10 flexões"
+    },
+    {
+      "id": 131,
+      "tipo": "desafio",
+      "texto": "Diga o alfabeto de trás para frente em 30 segundos"
+    },
+    {
+      "id": 132,
+      "tipo": "desafio",
+      "texto": "Passe um minuto inteiro sem piscar"
+    },
+    {
+      "id": 133,
+      "tipo": "desafio",
+      "texto": "Segure a respiração por 10 segundos"
+    },
+    {
+      "id": 134,
+      "tipo": "desafio",
+      "texto": "Aja como uma galinha por 1 minuto"
+    },
+    {
+      "id": 135,
+      "tipo": "desafio",
+      "texto": "Salte para cima e para baixo até chegar a sua vez novamente"
+    },
+    {
+      "id": 136,
+      "tipo": "desafio",
+      "texto": "Feche os olhos até que seja a sua vez novamente"
+    },
+    {
+      "id": 137,
+      "tipo": "desafio",
+      "texto": "Cante “Itsy Bitsy Spider” de cabeça para baixo"
+    },
+    {
+      "id": 138,
+      "tipo": "desafio",
+      "texto": "Faça 5 cambalhotas seguidas"
+    },
+    {
+      "id": 139,
+      "tipo": "desafio",
+      "texto": "Faça um backbend"
+    },
+    {
+      "id": 140,
+      "tipo": "desafio",
+      "texto": "Aja como sua pessoa favorita da Disney"
+    },
+    {
+      "id": 141,
+      "tipo": "desafio",
+      "texto": "Diga “banana” depois de tudo que você disser até que seja sua vez novamente"
+    },
+    {
+      "id": 142,
+      "tipo": "desafio",
+      "texto": "Inventar um poema sobre a cor azul"
+    },
+    {
+      "id": 143,
+      "tipo": "desafio",
+      "texto": "Aja como um macaco até que seja sua vez novamente"
+    },
+    {
+      "id": 144,
+      "tipo": "desafio",
+      "texto": "Faça uma parada de mão"
+    },
+    {
+      "id": 145,
+      "tipo": "desafio",
+      "texto": "Cruze os olhos"
+    },
+    {
+      "id": 146,
+      "tipo": "desafio",
+      "texto": "Lamber o nariz"
+    },
+    {
+      "id": 147,
+      "tipo": "desafio",
+      "texto": "Coma uma colher de manteiga de amendoim"
+    },
+    {
+      "id": 148,
+      "tipo": "desafio",
+      "texto": "Faça cócegas na pessoa à sua direita"
+    },
+    {
+      "id": 149,
+      "tipo": "desafio",
+      "texto": "Amarre os cordões do sapato e tente caminhar até a porta e voltar"
+    },
+    {
+      "id": 150,
+      "tipo": "desafio",
+      "texto": "Aja como um bebê até o próximo turno"
+    },
+    {
+      "id": 151,
+      "tipo": "desafio",
+      "texto": "Muu como uma vaca o mais alto que puder"
+    },
+    {
+      "id": 152,
+      "tipo": "desafio",
+      "texto": "Faça a dança do aspersor"
+    },
+    {
+      "id": 153,
+      "tipo": "desafio",
+      "texto": "Aja como seu super-herói favorito"
+    },
+    {
+      "id": 154,
+      "tipo": "desafio",
+      "texto": "Fique 10 minutos sem dizer as palavras: mas; a; o; ou"
+    },
+    {
+      "id": 155,
+      "tipo": "desafio",
+      "texto": "Aja como uma estátua até que seja sua vez novamente (sem falar ou se mover)"
+    },
+    {
+      "id": 156,
+      "tipo": "desafio",
+      "texto": "Miau como gato"
+    },
+    {
+      "id": 157,
+      "tipo": "desafio",
+      "texto": "Coloque a perna atrás da cabeça"
+    },
+    {
+      "id": 158,
+      "tipo": "desafio",
+      "texto": "Cante sua música favorita"
+    },
+    {
+      "id": 159,
+      "tipo": "desafio",
+      "texto": "Faça uma cara de peixe"
+    },
+    {
+      "id": 160,
+      "tipo": "desafio",
+      "texto": "Finja que você é um avião por 2 minutos"
+    },
+    {
+      "id": 161,
+      "tipo": "desafio",
+      "texto": "Dance como uma bailarina"
+    },
+    {
+      "id": 162,
+      "tipo": "desafio",
+      "texto": "Diga o alfabeto em um idioma diferente"
+    },
+    {
+      "id": 163,
+      "tipo": "desafio",
+      "texto": "Faça sua melhor dança hip hop"
+    },
+    {
+      "id": 164,
+      "tipo": "desafio",
+      "texto": "Tente lamber seu cotovelo"
+    },
+    {
+      "id": 165,
+      "tipo": "desafio",
+      "texto": "Pinte as unhas com giz de cera"
+    },
+    {
+      "id": 166,
+      "tipo": "desafio",
+      "texto": "Sente-se de cabeça para baixo em uma cadeira até a próxima vez"
+    },
+    {
+      "id": 167,
+      "tipo": "Verdade",
+      "texto": "Com que pessoas você dormiu no campus?"
+    },
+    {
+      "id": 168,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu GPA real?"
+    },
+    {
+      "id": 169,
+      "tipo": "Verdade",
+      "texto": "Qual é a sua fraternidade menos favorita no campus?"
+    },
+    {
+      "id": 170,
+      "tipo": "Verdade",
+      "texto": "O que você fez na sua primeira noite do primeiro ano?"
+    },
+    {
+      "id": 171,
+      "tipo": "Verdade",
+      "texto": "Você já desmaiou de tanto beber?"
+    },
+    {
+      "id": 172,
+      "tipo": "Verdade",
+      "texto": "Qual foi a coisa mais louca que você já fez enquanto estava bêbado?"
+    },
+    {
+      "id": 173,
+      "tipo": "Verdade",
+      "texto": "Quem é o melhor colega de quarto que você já teve?"
+    },
+    {
+      "id": 174,
+      "tipo": "Verdade",
+      "texto": "Qual foi a coisa mais irritante que seu colega de quarto já fez?"
+    },
+    {
+      "id": 175,
+      "tipo": "Verdade",
+      "texto": "Você fumava ou bebia antes da faculdade? Ou começou quando chegou aqui?"
+    },
+    {
+      "id": 176,
+      "tipo": "Verdade",
+      "texto": "Você abandonaria a escola se ganhasse na loteria?"
+    },
+    {
+      "id": 177,
+      "tipo": "Verdade",
+      "texto": "Qual é a melhor festa que você já foi?"
+    },
+    {
+      "id": 178,
+      "tipo": "Verdade",
+      "texto": "Quantas festas você já deu na sua casa?"
+    },
+    {
+      "id": 179,
+      "tipo": "Verdade",
+      "texto": "Qual é a maior quantidade de fotos que você tirou em uma noite?"
+    },
+    {
+      "id": 180,
+      "tipo": "Verdade",
+      "texto": "Você já vomitou no carro de alguém?"
+    },
+    {
+      "id": 181,
+      "tipo": "Verdade",
+      "texto": "Você já fez xixi na cama por estar muito bêbado?"
+    },
+    {
+      "id": 182,
+      "tipo": "Verdade",
+      "texto": "Qual é o maior tempo que você passou sem dormir?"
+    },
+    {
+      "id": 183,
+      "tipo": "Verdade",
+      "texto": "Quantas vezes você faltou aula sem motivo?"
+    },
+    {
+      "id": 184,
+      "tipo": "Verdade",
+      "texto": "Você já pegou uma DST?"
+    },
+    {
+      "id": 185,
+      "tipo": "Verdade",
+      "texto": "Você já acordou com um estranho na sua cama?"
+    },
+    {
+      "id": 186,
+      "tipo": "Verdade",
+      "texto": "Qual é a primeira vez que você começou a beber no dia?"
+    },
+    {
+      "id": 187,
+      "tipo": "Verdade",
+      "texto": "Você já gastou o dinheiro dos seus pais em álcool?"
+    },
+    {
+      "id": 188,
+      "tipo": "Verdade",
+      "texto": "Com quantos calouros você dormiu?"
+    },
+    {
+      "id": 189,
+      "tipo": "Verdade",
+      "texto": "Você já recebeu dinheiro de um calouro?"
+    },
+    {
+      "id": 190,
+      "tipo": "Verdade",
+      "texto": "Você já mentiu para seus pais sobre se você estava nas aulas ou não?"
+    },
+    {
+      "id": 191,
+      "tipo": "Verdade",
+      "texto": "Você já pegou dinheiro do seu colega de quarto?"
+    },
+    {
+      "id": 192,
+      "tipo": "Verdade",
+      "texto": "Qual é a coisa mais irritante que seu colega de quarto faz?"
+    },
+    {
+      "id": 193,
+      "tipo": "Verdade",
+      "texto": "Você esteve em alguma briga na escola?"
+    },
+    {
+      "id": 194,
+      "tipo": "Verdade",
+      "texto": "Você já pediu para alguém escrever um artigo para você?"
+    },
+    {
+      "id": 195,
+      "tipo": "desafio",
+      "texto": "Tire uma foto"
+    },
+    {
+      "id": 196,
+      "tipo": "desafio",
+      "texto": "Atire na pessoa à sua direita"
+    },
+    {
+      "id": 197,
+      "tipo": "desafio",
+      "texto": "Corra pela rua só de cueca"
+    },
+    {
+      "id": 198,
+      "tipo": "desafio",
+      "texto": "Dá um tapa na bunda da pessoa à sua esquerda"
+    },
+    {
+      "id": 199,
+      "tipo": "desafio",
+      "texto": "Coma um ovo cru"
+    },
+    {
+      "id": 200,
+      "tipo": "desafio",
+      "texto": "Coma um pacote seco de macarrão"
+    },
+    {
+      "id": 201,
+      "tipo": "desafio",
+      "texto": "Passe fio dental nos dentes da pessoa à sua esquerda"
+    },
+    {
+      "id": 202,
+      "tipo": "desafio",
+      "texto": "Tome um banho completamente vestido"
+    },
+    {
+      "id": 203,
+      "tipo": "desafio",
+      "texto": "Fale como Tony Montana pelos próximos 10 minutos"
+    },
+    {
+      "id": 204,
+      "tipo": "desafio",
+      "texto": "Coma papel higiênico"
+    },
+    {
+      "id": 205,
+      "tipo": "desafio",
+      "texto": "Cheirar uma linha de açúcar"
+    },
+    {
+      "id": 206,
+      "tipo": "desafio",
+      "texto": "Coma um pouco de sabão"
+    },
+    {
+      "id": 207,
+      "tipo": "desafio",
+      "texto": "Twerk em um pino"
+    },
+    {
+      "id": 208,
+      "tipo": "desafio",
+      "texto": "Deixe alguém te cortar o cabelo com a mão fraca"
+    },
+    {
+      "id": 209,
+      "tipo": "desafio",
+      "texto": "Faça uma música de rap freestyle sobre cada pessoa do grupo"
+    },
+    {
+      "id": 210,
+      "tipo": "desafio",
+      "texto": "Lamber o pé de alguém"
+    },
+    {
+      "id": 211,
+      "tipo": "desafio",
+      "texto": "Chame alguém aleatoriamente; e fale maluco com eles"
+    },
+    {
+      "id": 212,
+      "tipo": "desafio",
+      "texto": "Envie um e-mail para um de seus professores e diga que você os ama"
+    },
+    {
+      "id": 213,
+      "tipo": "desafio",
+      "texto": "Lamber a parede"
+    },
+    {
+      "id": 214,
+      "tipo": "desafio",
+      "texto": "Tome duas doses de um licor escuro e um claro (4 doses no total)"
+    },
+    {
+      "id": 215,
+      "tipo": "desafio",
+      "texto": "Deixe alguém lamber um círculo completo ao redor do seu rosto"
+    },
+    {
+      "id": 216,
+      "tipo": "desafio",
+      "texto": "Fique no canto em 'tempo limite'; não diga uma palavra pelas próximas 3 rodadas"
+    },
+    {
+      "id": 217,
+      "tipo": "desafio",
+      "texto": "Ficar com o namorado ou namorada de alguém"
+    },
+    {
+      "id": 218,
+      "tipo": "desafio",
+      "texto": "Beba uma cerveja inteira em 15 segundos"
+    },
+    {
+      "id": 219,
+      "tipo": "desafio",
+      "texto": "Sente-se na lixeira para a próxima rodada"
+    },
+    {
+      "id": 220,
+      "tipo": "desafio",
+      "texto": "Beba uma cerveja inteira; depois gire por 15 segundos; depois disso tente correr para a porta"
+    },
+    {
+      "id": 221,
+      "tipo": "desafio",
+      "texto": "Tire 2 fotos e faça uma cambalhota"
+    },
+    {
+      "id": 222,
+      "tipo": "desafio",
+      "texto": "Ligue para seus pais e diga que você está desistindo"
+    },
+    {
+      "id": 223,
+      "tipo": "Verdade",
+      "texto": "Qual é a coisa mais irritante que sua mãe faz?"
+    },
+    {
+      "id": 224,
+      "tipo": "Verdade",
+      "texto": "Qual é a coisa mais irritante que seu pai faz?"
+    },
+    {
+      "id": 225,
+      "tipo": "Verdade",
+      "texto": "Você já levou alguém para dentro de casa?"
+    },
+    {
+      "id": 226,
+      "tipo": "Verdade",
+      "texto": "Quantas vezes você escapou de casa?"
+    },
+    {
+      "id": 227,
+      "tipo": "Verdade",
+      "texto": "Qual é o melhor prato que sua mãe faz para o jantar?"
+    },
+    {
+      "id": 228,
+      "tipo": "Verdade",
+      "texto": "Se você pudesse mudar alguma das regras da casa, qual seria?"
+    },
+    {
+      "id": 229,
+      "tipo": "Verdade",
+      "texto": "Você prefere ser um cavalo ou uma vaca?"
+    },
+    {
+      "id": 230,
+      "tipo": "Verdade",
+      "texto": "Qual é a coisa mais engraçada que seus avós já disseram?"
+    },
+    {
+      "id": 231,
+      "tipo": "Verdade",
+      "texto": "Se você pudesse se livrar de uma tarefa doméstica, qual seria?"
+    },
+    {
+      "id": 232,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu desenho favorito da sua geração?"
+    },
+    {
+      "id": 233,
+      "tipo": "Verdade",
+      "texto": "Qual é a sua música de infância favorita?"
+    },
+    {
+      "id": 234,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu jogo de tabuleiro favorito para jogar com sua família?"
+    },
+    {
+      "id": 235,
+      "tipo": "Verdade",
+      "texto": "Se você pudesse colocar uma pessoa da sua família no mudo por um dia, quem seria?"
+    },
+    {
+      "id": 236,
+      "tipo": "Verdade",
+      "texto": "Com que idade você aprendeu a andar de bicicleta?"
+    },
+    {
+      "id": 237,
+      "tipo": "Verdade",
+      "texto": "Você sabe nadar?"
+    },
+    {
+      "id": 238,
+      "tipo": "Verdade",
+      "texto": "Descreva a casa dos seus sonhos"
+    },
+    {
+      "id": 239,
+      "tipo": "Verdade",
+      "texto": "Qual é o sonho mais engraçado que você já teve?"
+    },
+    {
+      "id": 240,
+      "tipo": "Verdade",
+      "texto": "Você já sonhou com um de seus parentes?"
+    },
+    {
+      "id": 241,
+      "tipo": "Verdade",
+      "texto": "Quem é seu marido ou esposa famoso?"
+    },
+    {
+      "id": 242,
+      "tipo": "Verdade",
+      "texto": "Quem te ensinou a amarrar os sapatos?"
+    },
+    {
+      "id": 243,
+      "tipo": "Verdade",
+      "texto": "Qual é o maior tempo que você já esteve sem tomar banho?"
+    },
+    {
+      "id": 244,
+      "tipo": "Verdade",
+      "texto": "Você já usou as mesmas roupas por mais de três dias?"
+    },
+    {
+      "id": 245,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu feriado favorito e por quê?"
+    },
+    {
+      "id": 246,
+      "tipo": "Verdade",
+      "texto": "Se você pudesse ser qualquer dinossauro; qual seria?"
+    },
+    {
+      "id": 247,
+      "tipo": "Verdade",
+      "texto": "Quanto tempo você poderia ficar sem comer sua comida favorita?"
+    },
+    {
+      "id": 248,
+      "tipo": "Verdade",
+      "texto": "Quem na sua família conta as piadas mais bregas?"
+    },
+    {
+      "id": 249,
+      "tipo": "Verdade",
+      "texto": "Você prefere ser uma abelha ou uma lesma?"
+    },
+    {
+      "id": 250,
+      "tipo": "Verdade",
+      "texto": "Você já comeu um verme?"
+    },
+    {
+      "id": 251,
+      "tipo": "Verdade",
+      "texto": "Você já cutucou o nariz quando achou que ninguém estava olhando?"
+    },
+    {
+      "id": 252,
+      "tipo": "Verdade",
+      "texto": "Se você pudesse ser qualquer super vilão, quem você seria?"
+    },
+    {
+      "id": 253,
+      "tipo": "desafio",
+      "texto": "Coloque manteiga de amendoim no nariz; e tente lamber"
+    },
+    {
+      "id": 254,
+      "tipo": "desafio",
+      "texto": "Faça uma parada de cabeça"
+    },
+    {
+      "id": 255,
+      "tipo": "desafio",
+      "texto": "Fique em uma perna nas próximas três rodadas"
+    },
+    {
+      "id": 256,
+      "tipo": "desafio",
+      "texto": "Cruze os olhos e caminhe até o jardim da frente e volte"
+    },
+    {
+      "id": 257,
+      "tipo": "desafio",
+      "texto": "Faça uma imitação de seu parente favorito; não pare até que todos possam adivinhar quem você é"
+    },
+    {
+      "id": 258,
+      "tipo": "desafio",
+      "texto": "Aja como o animal de estimação da família até que seja sua vez novamente"
+    },
+    {
+      "id": 259,
+      "tipo": "desafio",
+      "texto": "Para as próximas 2 rodadas; você deve fazer o que a pessoa à sua direita disser"
+    },
+    {
+      "id": 260,
+      "tipo": "desafio",
+      "texto": "Quack andando como um pato"
+    },
+    {
+      "id": 261,
+      "tipo": "desafio",
+      "texto": "Faça sua melhor imitação do Mickey Mouse"
+    },
+    {
+      "id": 262,
+      "tipo": "desafio",
+      "texto": "Girar por 10 segundos e sair da caixa de correio e voltar"
+    },
+    {
+      "id": 263,
+      "tipo": "desafio",
+      "texto": "Balance uma colher no nariz até a próxima rodada"
+    },
+    {
+      "id": 264,
+      "tipo": "desafio",
+      "texto": "Dê sua melhor risada maligna; o mais alto que puder"
+    },
+    {
+      "id": 265,
+      "tipo": "desafio",
+      "texto": "Faça uma cara engraçada; tire uma selfie; e poste no Facebook"
+    },
+    {
+      "id": 266,
+      "tipo": "desafio",
+      "texto": "Ligue para uma pessoa aleatória e cante parabéns para ela"
+    },
+    {
+      "id": 267,
+      "tipo": "desafio",
+      "texto": "Com os olhos vendados; vá para a cozinha e faça sanduíche"
+    },
+    {
+      "id": 268,
+      "tipo": "desafio",
+      "texto": "Dê à pessoa à sua esquerda um pinto molhado"
+    },
+    {
+      "id": 269,
+      "tipo": "desafio",
+      "texto": "Mexa as orelhas sem usar as mãos"
+    },
+    {
+      "id": 270,
+      "tipo": "desafio",
+      "texto": "Fale como um bebê pelas próximas 3 rodadas"
+    },
+    {
+      "id": 271,
+      "tipo": "desafio",
+      "texto": "Grave você mesmo fazendo a dança mais boba que puder fazer; e poste no Facebook"
+    },
+    {
+      "id": 272,
+      "tipo": "desafio",
+      "texto": "Conte uma piada engraçada; todos devem rir"
+    },
+    {
+      "id": 273,
+      "tipo": "desafio",
+      "texto": "Prenda a respiração por 15 segundos"
+    },
+    {
+      "id": 274,
+      "tipo": "desafio",
+      "texto": "Faça uma parada de cabeça enquanto canta sua canção de ninar favorita"
+    },
+    {
+      "id": 275,
+      "tipo": "desafio",
+      "texto": "Tente girar em sua cabeça como um dançarino de break"
+    },
+    {
+      "id": 276,
+      "tipo": "desafio",
+      "texto": "Balance o objeto à sua esquerda em sua cabeça pelas próximas três rodadas"
+    },
+    {
+      "id": 277,
+      "tipo": "desafio",
+      "texto": "Faça sua melhor dança hula"
+    },
+    {
+      "id": 278,
+      "tipo": "desafio",
+      "texto": "Tapdance no sofá"
+    },
+    {
+      "id": 279,
+      "tipo": "desafio",
+      "texto": "Levante-se e gire pelas próximas duas rodadas"
+    },
+    {
+      "id": 280,
+      "tipo": "desafio",
+      "texto": "Faça 150 polichinelos"
+    },
+    {
+      "id": 281,
+      "tipo": "desafio",
+      "texto": "Use a pessoa à sua direita como tambor e faça uma dança tribal"
+    },
+    {
+      "id": 282,
+      "tipo": "desafio",
+      "texto": "Fique como um flamingo nas próximas quatro rodadas"
+    },
+    {
+      "id": 283,
+      "tipo": "Verdade",
+      "texto": "Quem é o seu professor mais bonito que você já teve?"
+    },
+    {
+      "id": 284,
+      "tipo": "Verdade",
+      "texto": "Você já colou em algum teste?"
+    },
+    {
+      "id": 285,
+      "tipo": "Verdade",
+      "texto": "Quem é seu crush na escola?"
+    },
+    {
+      "id": 286,
+      "tipo": "Verdade",
+      "texto": "Quem é a pessoa mais irritante que você conhece?"
+    },
+    {
+      "id": 287,
+      "tipo": "Verdade",
+      "texto": "Você já fez uma brincadeira com seu professor?"
+    },
+    {
+      "id": 288,
+      "tipo": "Verdade",
+      "texto": "Você já mentiu para seus pais sobre o que estava fazendo depois da escola?"
+    },
+    {
+      "id": 289,
+      "tipo": "Verdade",
+      "texto": "Você já culpou algum de seus irmãos por algo que você fez?"
+    },
+    {
+      "id": 290,
+      "tipo": "Verdade",
+      "texto": "Para qual faculdade você planeja ir?"
+    },
+    {
+      "id": 291,
+      "tipo": "Verdade",
+      "texto": "Você ainda é virgem?"
+    },
+    {
+      "id": 292,
+      "tipo": "Verdade",
+      "texto": "Quantos namorados (ou namoradas) você já teve?"
+    },
+    {
+      "id": 293,
+      "tipo": "Verdade",
+      "texto": "Você já foi beijado? Se sim, quem foi seu melhor beijo?"
+    },
+    {
+      "id": 294,
+      "tipo": "Verdade",
+      "texto": "Qual é a sua maior implicância?"
+    },
+    {
+      "id": 295,
+      "tipo": "Verdade",
+      "texto": "Qual foi a melhor férias que você já teve?"
+    },
+    {
+      "id": 296,
+      "tipo": "Verdade",
+      "texto": "Você já contou os segredos de um dos seus melhores amigos, mesmo que você dissesse que não contaria?"
+    },
+    {
+      "id": 297,
+      "tipo": "Verdade",
+      "texto": "Você já se apaixonou por alguém que seu melhor amigo namorou?"
+    },
+    {
+      "id": 298,
+      "tipo": "Verdade",
+      "texto": "Qual foi a coisa mais irritante que um de seus irmãos fez?"
+    },
+    {
+      "id": 299,
+      "tipo": "Verdade",
+      "texto": "Você tem um emprego? Se sim, qual é a sua coisa favorita sobre isso?"
+    },
+    {
+      "id": 300,
+      "tipo": "Verdade",
+      "texto": "Se você fosse um bilionário, o que você gastaria seu tempo fazendo?"
+    },
+    {
+      "id": 301,
+      "tipo": "Verdade",
+      "texto": "Qual é o maior tempo que você já esteve de castigo?"
+    },
+    {
+      "id": 302,
+      "tipo": "Verdade",
+      "texto": "Qual é o maior tempo que você acha que poderia ficar sem seu celular?"
+    },
+    {
+      "id": 303,
+      "tipo": "Verdade",
+      "texto": "Qual é a coisa mais cara que você possui?"
+    },
+    {
+      "id": 304,
+      "tipo": "Verdade",
+      "texto": "Se você tivesse a opção de morar sozinho agora, você faria isso?"
+    },
+    {
+      "id": 305,
+      "tipo": "Verdade",
+      "texto": "Você consegue se ver casada com o garoto mais assustador da sua escola algum dia?"
+    },
+    {
+      "id": 306,
+      "tipo": "Verdade",
+      "texto": "Você entraria em um site de namoro?"
+    },
+    {
+      "id": 307,
+      "tipo": "Verdade",
+      "texto": "Você já assistiu a um filme adulto sem que seus pais soubessem?"
+    },
+    {
+      "id": 308,
+      "tipo": "Verdade",
+      "texto": "Se você pudesse ter seu próprio negócio um dia, qual seria?"
+    },
+    {
+      "id": 309,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu tipo de roupa favorito?"
+    },
+    {
+      "id": 310,
+      "tipo": "Verdade",
+      "texto": "Qual celebridade você é obcecado?"
+    },
+    {
+      "id": 311,
+      "tipo": "Verdade",
+      "texto": "Qual é o vídeo do youtube mais engraçado que você já viu?"
+    },
+    {
+      "id": 312,
+      "tipo": "Verdade",
+      "texto": "Quem é o pior professor que você já teve; por quê?"
+    },
+    {
+      "id": 313,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu time favorito?"
+    },
+    {
+      "id": 314,
+      "tipo": "Verdade",
+      "texto": "Qual a coisa mais louca que você já fez sem seus pais saberem?"
+    },
+    {
+      "id": 315,
+      "tipo": "Verdade",
+      "texto": "O que você faria se seus pais deixassem a casa para você por uma semana inteira?"
+    },
+    {
+      "id": 316,
+      "tipo": "Verdade",
+      "texto": "Qual é a sua música favorita que saiu agora?"
+    },
+    {
+      "id": 317,
+      "tipo": "Verdade",
+      "texto": "Você poderia ficar dois meses sem falar com seus amigos?"
+    },
+    {
+      "id": 318,
+      "tipo": "desafio",
+      "texto": "Com pó na mão; dê um tapa na bochecha da pessoa que ficou à sua esquerda"
+    },
+    {
+      "id": 319,
+      "tipo": "desafio",
+      "texto": "Faça uma parada de mão na parede pelas próximas duas rodadas"
+    },
+    {
+      "id": 320,
+      "tipo": "desafio",
+      "texto": "Beije um travesseiro até que seja sua vez novamente"
+    },
+    {
+      "id": 321,
+      "tipo": "desafio",
+      "texto": "Faça sua melhor dança de galinha lá fora no gramado"
+    },
+    {
+      "id": 322,
+      "tipo": "desafio",
+      "texto": "Coma três colheres de mostarda"
+    },
+    {
+      "id": 323,
+      "tipo": "desafio",
+      "texto": "Usando apenas os cotovelos; faça um status no Facebook e poste"
+    },
+    {
+      "id": 324,
+      "tipo": "desafio",
+      "texto": "Envie uma mensagem para seu crush e diga o quanto você gosta dele"
+    },
+    {
+      "id": 325,
+      "tipo": "desafio",
+      "texto": "Envie um e-mail para um de seus professores, contando como está sendo seu dia"
+    },
+    {
+      "id": 326,
+      "tipo": "desafio",
+      "texto": "Cheire pimenta e tente não espirrar"
+    },
+    {
+      "id": 327,
+      "tipo": "desafio",
+      "texto": "Convide seu crush para sair"
+    },
+    {
+      "id": 328,
+      "tipo": "desafio",
+      "texto": "Com os olhos vendados; gire 10 vezes e ande pela rua e volte"
+    },
+    {
+      "id": 329,
+      "tipo": "desafio",
+      "texto": "Tire uma selfie com uma vassoura e poste em todas as suas redes sociais"
+    },
+    {
+      "id": 330,
+      "tipo": "desafio",
+      "texto": "Coloque as meias da pessoa à sua direita na boca"
+    },
+    {
+      "id": 331,
+      "tipo": "desafio",
+      "texto": "Faça uma imitação do seu professor mais chato"
+    },
+    {
+      "id": 332,
+      "tipo": "desafio",
+      "texto": "Faça uma pegadinha em um restaurante local e peça um de tudo do cardápio"
+    },
+    {
+      "id": 333,
+      "tipo": "desafio",
+      "texto": "Coma meio pedaço de manteiga"
+    },
+    {
+      "id": 334,
+      "tipo": "desafio",
+      "texto": "Tente fazer cócegas em si mesmo"
+    },
+    {
+      "id": 335,
+      "tipo": "desafio",
+      "texto": "Vá enxaguar a boca com sabão ou um minuto; depois sopre bolhas de sabão da boca até o sabão acabar"
+    },
+    {
+      "id": 336,
+      "tipo": "desafio",
+      "texto": "Faça uma bala de canhão no sofá"
+    },
+    {
+      "id": 337,
+      "tipo": "desafio",
+      "texto": "Coma o máximo de molho picante que puder"
+    },
+    {
+      "id": 338,
+      "tipo": "desafio",
+      "texto": "Dê um beijo na testa da pessoa à sua esquerda"
+    },
+    {
+      "id": 339,
+      "tipo": "desafio",
+      "texto": "Compartilhe uma camisa com a pessoa à sua direita pelas próximas 3 rodadas"
+    },
+    {
+      "id": 340,
+      "tipo": "desafio",
+      "texto": "Segure o sapato até o nariz até que seja sua vez novamente"
+    },
+    {
+      "id": 341,
+      "tipo": "desafio",
+      "texto": "Vá lá fora e cante seu hino nacional o mais alto que puder"
+    },
+    {
+      "id": 342,
+      "tipo": "desafio",
+      "texto": "Dobre-se em um pretzel"
+    },
+    {
+      "id": 343,
+      "tipo": "desafio",
+      "texto": "Corra no mesmo lugar ou nas próximas três rodadas"
+    },
+    {
+      "id": 344,
+      "tipo": "desafio",
+      "texto": "Ligue e grite com um de seus pais e depois diga que eles estão de castigo por uma semana"
+    },
+    {
+      "id": 345,
+      "tipo": "desafio",
+      "texto": "Tire uma selfie com o dedo no nariz e poste em todas as suas redes sociais"
+    },
+    {
+      "id": 346,
+      "tipo": "desafio",
+      "texto": "Faça sua melhor dança do ventre"
+    },
+    {
+      "id": 347,
+      "tipo": "desafio",
+      "texto": "Ande com as mãos de um lado da sala para o outro"
+    },
+    {
+      "id": 348,
+      "tipo": "desafio",
+      "texto": "Invente uma música de três minutos sobre a primeira coisa que vem à sua mente"
+    },
+    {
+      "id": 349,
+      "tipo": "desafio",
+      "texto": "Aja como um porco até que seja sua vez novamente"
+    },
+    {
+      "id": 350,
+      "tipo": "desafio",
+      "texto": "Coloque maquiagem sem espelho"
+    },
+    {
+      "id": 351,
+      "tipo": "Verdade",
+      "texto": "Qual é a sua parte favorita do meu corpo?"
+    },
+    {
+      "id": 352,
+      "tipo": "Verdade",
+      "texto": "Há quanto tempo você fica sem tomar banho?"
+    },
+    {
+      "id": 353,
+      "tipo": "Verdade",
+      "texto": "O que você não quer que ninguém neste grupo pergunte a você? (Lembre-se disso para as próximas rodadas!)"
+    },
+    {
+      "id": 354,
+      "tipo": "Verdade",
+      "texto": "Você já mentiu durante um jogo de Verdad ou desafio? O que foi e por quê?"
+    },
+    {
+      "id": 355,
+      "tipo": "Verdade",
+      "texto": "Você já teve uma queda por alguém aqui?"
+    },
+    {
+      "id": 356,
+      "tipo": "Verdade",
+      "texto": "Você já roubou alguma coisa?"
+    },
+    {
+      "id": 357,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu pesadelo mais assustador?"
+    },
+    {
+      "id": 358,
+      "tipo": "Verdade",
+      "texto": "Qual você acha que é sua maior falha física?"
+    },
+    {
+      "id": 359,
+      "tipo": "Verdade",
+      "texto": "Você já mergulhou pelado?"
+    },
+    {
+      "id": 360,
+      "tipo": "Verdade",
+      "texto": "Que tipo de pijama você usa para dormir?"
+    },
+    {
+      "id": 361,
+      "tipo": "Verdade",
+      "texto": "Qual foi a coisa mais idiota que você já fez em um desafio?"
+    },
+    {
+      "id": 362,
+      "tipo": "Verdade",
+      "texto": "Qual é a cor da sua calcinha?"
+    },
+    {
+      "id": 363,
+      "tipo": "Verdade",
+      "texto": "Você já fez xixi na piscina?"
+    },
+    {
+      "id": 364,
+      "tipo": "Verdade",
+      "texto": "Onde é o lugar mais estranho em que você usou o banheiro?"
+    },
+    {
+      "id": 365,
+      "tipo": "Verdade",
+      "texto": "Você está com medo de morrer? Por quê?"
+    },
+    {
+      "id": 366,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu maior medo?"
+    },
+    {
+      "id": 367,
+      "tipo": "Verdade",
+      "texto": "O que aconteceu no pior dia da sua vida?"
+    },
+    {
+      "id": 368,
+      "tipo": "Verdade",
+      "texto": "Você já subiu em uma árvore?"
+    },
+    {
+      "id": 369,
+      "tipo": "Verdade",
+      "texto": "Você já cantou e dançou no supermercado?"
+    },
+    {
+      "id": 370,
+      "tipo": "Verdade",
+      "texto": "Se você pudesse ser um super-herói, qual seria o seu poder?"
+    },
+    {
+      "id": 371,
+      "tipo": "Verdade",
+      "texto": "O que você faria se ficasse invisível por um dia?"
+    },
+    {
+      "id": 372,
+      "tipo": "Verdade",
+      "texto": "Se sua vida fosse transformada em um filme, quem interpretaria você?"
+    },
+    {
+      "id": 373,
+      "tipo": "Verdade",
+      "texto": "Qual é a sua maior implicância?"
+    },
+    {
+      "id": 374,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu talento especial?"
+    },
+    {
+      "id": 375,
+      "tipo": "Verdade",
+      "texto": "Qual é a melhor refeição que você já comeu?"
+    },
+    {
+      "id": 376,
+      "tipo": "Verdade",
+      "texto": "Qual é o seu filme favorito da Disney e por quê?"
+    },
+    {
+      "id": 377,
+      "tipo": "Verdade",
+      "texto": "O que você faria com um milhão de dólares se ganhasse na loteria?"
+    },
+    {
+      "id": 378,
+      "tipo": "Verdade",
+      "texto": "Quem foi seu primeiro crush; ou quem é seu crush atual?"
+    },
+    {
+      "id": 379,
+      "tipo": "Verdade",
+      "texto": "Quantos anos você tinha quando deu seu primeiro beijo?"
+    },
+    {
+      "id": 380,
+      "tipo": "Verdade",
+      "texto": "O que você faria se seu namorado/namorada atual terminasse as coisas agora?"
+    },
+    {
+      "id": 381,
+      "tipo": "Verdade",
+      "texto": "Você já traiu um namorado/namorada?"
+    },
+    {
+      "id": 382,
+      "tipo": "Verdade",
+      "texto": "Você já foi traído por um namorado/namorada?"
+    },
+    {
+      "id": 383,
+      "tipo": "Verdade",
+      "texto": "Se você pudesse sair com alguém na sala, quem seria?"
+    },
+    {
+      "id": 384,
+      "tipo": "Verdade",
+      "texto": "Qual foi o momento mais estranho que você já teve em um encontro?"
+    },
+    {
+      "id": 385,
+      "tipo": "Verdade",
+      "texto": "Se você pudesse beijar uma celebridade sem afetar seu relacionamento atual, quem seria?"
+    },
+    {
+      "id": 386,
+      "tipo": "Verdade",
+      "texto": "O que você faria no primeiro encontro perfeito?"
+    },
+    {
+      "id": 387,
+      "tipo": "Verdade",
+      "texto": "De todas as pessoas que você conhece, quem tem os olhos mais bonitos?"
+    },
+    {
+      "id": 388,
+      "tipo": "Verdade",
+      "texto": "Se você pudesse se casar com um professor da escola, quem você escolheria e por quê?"
+    },
+    {
+      "id": 389,
+      "tipo": "Verdade",
+      "texto": "Quais foram suas primeiras impressões sobre mim (a pessoa que fez a pergunta)?"
+    },
+    {
+      "id": 390,
+      "tipo": "Verdade",
+      "texto": "Quais traços de personalidade fariam com que você terminasse uma amizade?"
+    },
+    {
+      "id": 391,
+      "tipo": "Verdade",
+      "texto": "Você transaria pelas costas de um amigo com uma paixão?"
+    },
+    {
+      "id": 392,
+      "tipo": "Verdade",
+      "texto": "Você já mentiu para seu melhor amigo?"
+    },
+    {
+      "id": 393,
+      "tipo": "Verdade",
+      "texto": "Você enganaria o jornal de um amigo?"
+    },
+    {
+      "id": 394,
+      "tipo": "Verdade",
+      "texto": "Quantos melhores amigos você teve durante sua vida?"
+    },
+    {
+      "id": 395,
+      "tipo": "Verdade",
+      "texto": "Se você estivesse preso em uma ilha deserta, qual amigo você gostaria de ter com você?"
+    },
+    {
+      "id": 396,
+      "tipo": "Verdade",
+      "texto": "Qual pessoa aqui sabe algo sobre você que você não gostaria que fosse revelado?"
+    },
+    {
+      "id": 397,
+      "tipo": "Verdade",
+      "texto": "Quais são as três qualidades que você considera mais importantes em um amigo?"
+    },
+    {
+      "id": 398,
+      "tipo": "Verdade",
+      "texto": "O que faria você mentir para seu amigo?"
+    },
+    {
+      "id": 399,
+      "tipo": "desafio",
+      "texto": "Beba uma mistura misteriosa preparada pelo resto do grupo. Certifique-se de que não há nada prejudicial ou perigoso na mistura e estabeleça um limite razoável de goles que a pessoa deve tomar para completar o desafio."
+    },
+    {
+      "id": 400,
+      "tipo": "desafio",
+      "texto": "Coma um bocado de bolachas e tente assobiar."
+    },
+    {
+      "id": 401,
+      "tipo": "desafio",
+      "texto": "Quebre um ovo na sua cabeça."
+    },
+    {
+      "id": 402,
+      "tipo": "desafio",
+      "texto": "Combine dois alimentos que nunca devem andar juntos; como picles e manteiga de amendoim ou purê de maçã e azeitonas; e coma uma mordida enorme."
+    },
+    {
+      "id": 403,
+      "tipo": "desafio",
+      "texto": "Fique ao lado da geladeira (ou pacote de comida se estiver acampando); feche os olhos; e aponte aleatoriamente para algo dentro. Mantenha os olhos fechados enquanto alguém do grupo o ajuda a comer um pouco da comida que você escolheu ."
+    },
+    {
+      "id": 404,
+      "tipo": "desafio",
+      "texto": "Finja ser um garçom ou garçonete e receba pedidos de lanches de todos no grupo. Traga a comida que eles pediram e depois verifique se eles gostaram."
+    },
+    {
+      "id": 405,
+      "tipo": "desafio",
+      "texto": "Coma um lanche sem usar as mãos."
+    },
+    {
+      "id": 406,
+      "tipo": "desafio",
+      "texto": "Troque camisas com a pessoa ao seu lado para a próxima rodada de perguntas."
+    },
+    {
+      "id": 407,
+      "tipo": "desafio",
+      "texto": "Use um chapéu engraçado na cabeça nas próximas três rodadas de perguntas."
+    },
+    {
+      "id": 408,
+      "tipo": "desafio",
+      "texto": "Use suas calças para trás pelo resto do jogo."
+    },
+    {
+      "id": 409,
+      "tipo": "desafio",
+      "texto": "Tire as meias e use-as nas mãos pelo resto da noite."
+    },
+    {
+      "id": 410,
+      "tipo": "desafio",
+      "texto": "Faça um cocar de papel higiênico e posar para fotos."
+    },
+    {
+      "id": 411,
+      "tipo": "desafio",
+      "texto": "Troque de roupa com alguém do sexo oposto. Troque em particular; mas use as roupas nas próximas quatro rodadas."
+    },
+    {
+      "id": 412,
+      "tipo": "desafio",
+      "texto": "Pegue um saco de lixo grande e abra a parte de baixo. Coloque-o como uma saia e amarre os laços em volta da cintura. Aja como se estivesse modelando alta costura na passarela."
+    },
+    {
+      "id": 413,
+      "tipo": "desafio",
+      "texto": "Tire 10 minutos para criar uma roupa que tenha todas as cores do arco-íris. Pegue coisas emprestadas de amigos conforme você precisar."
+    },
+    {
+      "id": 414,
+      "tipo": "desafio",
+      "texto": "Faça uma festa do chá entre qualquer um dos bichos de pelúcia da casa. Convide as meninas do seu grupo para participar."
+    },
+    {
+      "id": 415,
+      "tipo": "desafio",
+      "texto": "Diga a eles que eles têm que fazer um quebra-cabeça lógico e se eles não terminarem em 3 minutos - você lhes dará um desafio embaraçoso!"
+    },
+    {
+      "id": 416,
+      "tipo": "desafio",
+      "texto": "Diga o alfabeto de trás para frente com sotaque britânico."
+    },
+    {
+      "id": 417,
+      "tipo": "desafio",
+      "texto": "Corra pela sala imitando um macaco."
+    },
+    {
+      "id": 418,
+      "tipo": "desafio",
+      "texto": "Dê a alguém do grupo uma carona nas costas da sala."
+    },
+    {
+      "id": 419,
+      "tipo": "desafio",
+      "texto": "Faça um rap sobre a pessoa à sua direita."
+    },
+    {
+      "id": 420,
+      "tipo": "desafio",
+      "texto": "Se houver um animal de estimação no evento, tente segurar o animal pelo resto da noite."
+    },
+    {
+      "id": 421,
+      "tipo": "desafio",
+      "texto": "Finja que você está nadando debaixo d'água para as próximas três rodadas de perguntas. Não se esqueça de fazer barulhos borbulhantes e subir para respirar de vez em quando."
+    },
+    {
+      "id": 422,
+      "tipo": "desafio",
+      "texto": "Tudo o que você diz para o resto do jogo tem que rimar."
+    },
+    {
+      "id": 423,
+      "tipo": "desafio",
+      "texto": "Repita tudo o que outro jogador disser nas próximas três rodadas do jogo."
+    },
+    {
+      "id": 424,
+      "tipo": "desafio",
+      "texto": "Cante em vez de falar nas próximas duas rodadas do jogo."
+    }
+  ]}
